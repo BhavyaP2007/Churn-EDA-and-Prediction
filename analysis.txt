@@ -1,0 +1,6 @@
+1. The dataset is balanced.
+2. Senior Citizens tend to churn more. Almost 90% senior citizens churn.
+3. Churn increases drastically if customer has to contact the company more than 3 times. This shows customer dissatisfaction.
+4. In every age group, women tend to churn more than men.
+5. Monthly subscribed people tend to churn more. Converting them to annual and quarterly subscription might help.
+6. Customers tend to churn the service after a delay of 20 months. 
